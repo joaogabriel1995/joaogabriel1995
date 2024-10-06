@@ -1,4 +1,3 @@
-# 💫 About Me:
 # **João Gabriel Andrade de Freitas Denys Pereira**  🚀  
 Londrina, Paraná – Brasil  
 E-mail: [joaogabrielrp@gmail.com](mailto:joaogabrielrp@gmail.com)  
