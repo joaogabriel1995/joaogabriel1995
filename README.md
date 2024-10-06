@@ -71,15 +71,5 @@ Conclusão prevista: final de 2024
 ![Crew AI](https://img.shields.io/badge/Crew%20AI-%2300A6D9.svg?style=for-the-badge) 
 ![LangFlow](https://img.shields.io/badge/LangFlow-%2300A6D9.svg?style=for-the-badge)
 
----
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=joaogabriel1995&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=joaogabriel1995&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=joaogabriel1995&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=joaogabriel1995&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
