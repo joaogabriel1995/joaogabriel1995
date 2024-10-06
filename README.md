@@ -1,8 +1,8 @@
 # **João Gabriel Andrade de Freitas Denys Pereira**  🚀  
 Londrina, Paraná – Brasil  
-Telefone (WhatsApp): +55 16 99113-4707  
 E-mail: [joaogabrielrp@gmail.com](mailto:joaogabrielrp@gmail.com)  
-[LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-gabriel-andrade-de-freitas-51241b220/)
+[LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-gabriel-andrade-de-freitas-51241b220/)  
+[Medium](https://medium.com/@joaogabriel1995)
 
 ### 💻 **Desenvolvedor de Software Web e Python**
 
@@ -30,19 +30,19 @@ Conclusão prevista: final de 2024
 - **[InfluxDB Integration](https://github.com/joaogabriel1995/influxDb)**  
   Integração com InfluxDB para monitoramento em tempo real de dados.
 
+- **[SmartVideoAgent](https://github.com/joaogabriel1995/SmartVideoAgent)**  
+  Sistema de análise e cortes inteligentes de vídeos, utilizando inteligência artificial para gerar trechos relevantes de forma automática.
+
+- **[VideoTranscriber](https://github.com/joaogabriel1995/VideoTranscriber)**  
+  Ferramenta de transcrição automática de vídeos, transformando o áudio em texto e facilitando a criação de legendas e análises.
+
 ---
 
 ## 🛠 **Tecnologias & Ferramentas**
 - **Linguagens:** TypeScript, Python, SQL  
 - **Frameworks:** NestJS, React.js, Flask  
 - **Ferramentas:** RabbitMQ, Docker, Prisma, Bull, n8n, InfluxDB  
-- **Infraestrutura:** AWS, Kubernetes, Raspberry Pi, Balena  
+- **Infraestrutura:** AWS, Docker, Raspberry Pi, Balena  
 - **Padrões:** SOLID, Clean Architecture, TDD
 
 ---
-
-## 📈 **Estatísticas GitHub**
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=joaogabriel1995&show_icons=true&count_private=true&theme=radical" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogabriel1995&layout=compact&theme=radical" />
