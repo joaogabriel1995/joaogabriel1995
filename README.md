@@ -12,7 +12,7 @@ Desenvolvedor sênior com expertise em TypeScript, Python, e frameworks como Rea
 
 ## **Formação Acadêmica**  
 **Engenharia de Controle e Automação**  
-Instituição: (nome da universidade)  
+Instituição: UTFPR 
 Conclusão prevista: final de 2024
 
 ---
