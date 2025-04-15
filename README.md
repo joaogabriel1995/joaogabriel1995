@@ -18,8 +18,6 @@ Conclusão prevista: final de 2024
 ---
 
 ## 🔭 **Projetos Atuais**
-- **[Registro Atividade](https://github.com/joaogabriel1995/registro-atividade)**  
-  Gerenciamento de registros de atividades com foco em controle e acompanhamento. Feito em TypeScript.
 
 - **[Chat Bot LLM](https://github.com/joaogabriel1995/chat-bot-llm)**  
   Chatbot desenvolvido com LLM (Large Language Models) em TypeScript.
